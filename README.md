@@ -11,4 +11,4 @@
 
     - Venue: 105M, Shahe Campus
     - Time: Every Wednesday 19:20 pm
-is it right
+
